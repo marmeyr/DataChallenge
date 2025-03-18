@@ -1,5 +1,3 @@
-# DataChallenge
-
 # Data Challenge: Détection de Comportements Malveillants d'Applications Windows
 
 ## Contexte
